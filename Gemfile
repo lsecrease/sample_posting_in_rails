@@ -11,6 +11,8 @@ gem 'jbuilder',     '2.4.1'
 gem 'bootstrap-sass'
 gem 'minitest'
 gem 'bcrypt'
+gem 'faker'
+gem 'will_paginate'
 
 group :development, :test do
   gem 'sqlite3', '1.3.12'
